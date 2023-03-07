@@ -1,0 +1,29 @@
+body{background-color: lightcyan;}
+.main{margin-right: 10%;margin-left: 10%;}
+.nav a{margin-left: 7%;}
+.heading{text-align: center;background-color:lightslategray ;}
+.heading h3{color: aliceblue;font-style: italic;}
+.heading p{font-size: 30px;font-style: italic;color: aliceblue;}
+.heading h1 {font-size: 60px;color:white;}
+#pa {text-align: center;font-size: 40px;}
+.clothes{display: flex;}
+#one1{width: 200px;}
+.two{margin-left: 10%;margin-top: 5%;border-style: solid;
+    border-color: white;padding: 10px;background-color: white;}
+#two2{width: 300px;}
+.three{margin-left: 10%;margin-top: 5%;border-style: solid;
+    border-color: white;padding: 10px;background-color: white;}
+#three3{width: 250px;}
+.clothes2{display: flex;margin-top: 2%;}
+.four{border-style: solid;border-color: white;padding: 10px;background-color: white;}
+#four4{width: 170px;}
+.five{margin-left: 15%;margin-top: 5%;border-style: solid;
+    border-color: white;padding: 10px;background-color: white;}
+#five5{width: 200px;}
+.six{margin-left: 15%;margin-top: 5%;border-style: solid;
+    border-color: white;padding: 10px;background-color: white;}
+#six6{width: 200px;}
+.footer{float: right ;margin-bottom: 3%;margin-top: 10%;}
+.footer button{color: white;background-color: purple;padding: 10px 20px;}
+.footer label{font-size: 30px;font-style: italic;}
+.footer input{padding: 10px 20px;}
